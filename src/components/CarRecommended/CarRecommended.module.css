@@ -1,0 +1,10 @@
+.recom_flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.recom_title {
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
